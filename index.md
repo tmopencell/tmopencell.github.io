@@ -5,24 +5,19 @@ I am director at [OpenCell](https://opencell.bio) and enjoy working accross disc
 This term (Oct-Dec 2019) I am teaching Biofashion at the Royal College of Art. I'll be using this webpage to share the lecture materials and project work. Two things that really matter to me are opensource learning materials accessible to all and making those materials easy to use. So if you are based in a country where English is not your first language please let me know if there are ways I can help? In particular I would like to increase accessibility for Mandarin speakers. If you speak Mandarin please reach out!
 
 ### RCA Coursework/lectures
-```
 1. Week 9th October - How to do a literature review
 2. Week 23rd October - [Build your own Computer](https://github.com/tmopencell/diycomputer)
 3. 
 4.
 5.
-```
 
 ### The projects I am working on right now 
-```
 - [OpenSource Plate reader](https://github.com/tmopencell/OSP)
 
 - [Lab Vision](https://github.com/tmopencell/labvision)
-```
 
 ### Bit of Background
 
-```
 **Biography:**
 
 I was an Interdisciplinary Fellow, jointly hosted by CEB and the Plant Sciences department, developing microfluidic techniques for genetic engineering. My previous role was as a research scientist for the Toshiba Cambridge Research Labs as a Marie Curie Fellow developing quantum technologies. I completed my PhD in the direct laser inscription of photonic circuits in glass for quantum photonics in the the group of Michael Withford in the Centre for Ultrahigh bandwidth Devices for Optical Systems (CUDOS), Australia. 
@@ -56,7 +51,6 @@ I was an Interdisciplinary Fellow, jointly hosted by CEB and the Plant Sciences 
 - T. Meany, “Quantum dots for future optical quantum technologies,” (Invited) Laser Focus World, 51 (10), 45-47. 
 
 - T. Meany, “Ultrafast lasers write quantum circuits,” (Invited) Laser Focus World, July, 25-27 (2014). Featured on front cover. 
-```
 
 ### Contact
 
