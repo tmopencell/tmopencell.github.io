@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+## Thomas Meany (right now just a Jekyll template)
 
-You can use the [editor on GitHub](https://github.com/tmopencell/tmopencell.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am director at [OpenCell](https://opencell.bio) and enjoy working accross disciplines especially at the intersection of biology/software/hardware.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This term (Oct-Dec 2019) I am teaching Biofashion at the Royal College of Art. I'll be using this webpage to share the lecture materials and project work. Two things that really matter to me are opensource learning materials accessible to all and making those materials easy to use. So if you are based in a country where English is not your first language please let me know if there are ways I can help? In particular I would like to increase accessibility for Mandarin speakers. If you speak Mandarin please reach out!
+
+```
+RCA Coursework/lectures
+
+1. Week 9th October - How to do a literature review
+2. Week 23rd October - [Build your own Computer](https://github.com/tmopencell/diycomputer)
+3. 
+4.
+5.
+```
+
+```
+The projects I am working on right now 
+* [OpenSource Plate reader](https://github.com/tmopencell/OSP)
+
+* [Lab Vision](https://github.com/tmopencell/labvision)
+```
 
 ### Markdown
 
