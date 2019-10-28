@@ -22,6 +22,7 @@ A hands on workshop using _Streptomyces coleri_ to produce Indigo.
 
 - [OpenSource Plate reader](https://github.com/tmopencell/OSP)
 This will be part of a [Hackathon October 26th](https://www.opencell.bio/biohack-here-now). If you want to participate then drop us a mail (info[@]opencell[dot]bio). 
+
 - [Lab Vision](https://github.com/tmopencell/labvision)
 This incorperates some OpenCV (was my first attempt at using for a project) and is supposed to track particular colours in an image for use in managing labs. It would also be possible to incorperate **hand tracking and then use this for experimental debugging**. We will do a [hackathon about this](https://www.opencell.bio/biohack-here-now). 
 
@@ -30,8 +31,13 @@ This incorperates some OpenCV (was my first attempt at using for a project) and 
 
 - [Make Things Float With Ultrasound](https://spectrum.ieee.org/geek-life/hands-on/how-to-make-things-float-with-ultrasound). Ths project is based on work from the Drinkwater labs and I think it would (maybe?) have some application in biology apart from looking cool (maybe.?). You can [buy a kit for 70$](https://www.makerfabs.com/index.php?route=product/product&product_id=508) so hope to have a go soon. 
 
+- [Chi.bio](https://chi.bio) is an incredible chemostat and is just breathtakingly well engineered. I would like to build it (among others things) to get a deeper understandin of surface mount components and pcb design.
+
+-[OpenKnit](https://hackaday.com/2014/02/20/openknit-the-open-source-knitting-machine/) looks like a very useful tool at the borders of tech and fashion (also great videos). It is a 2D knitting machine and the [build instructions](https://github.com/g3rard/OpenKnit) look very thorough and it is very affordable as well. Would like to collaborate with a fashion designer (especially if interested in knitwear) on this. Please reach out if it interests you!! 
+
 ### Bit of Background
 ---
+
 **Biography:**
 
 I am founder/director at [OpenCell](https://opencell.bio) London, where we build biotech labs in shipping containers. Prior to this I had founded another biotech [Cell-Free Technology](https://cell-free.tech) where we developed tools for high throughput protein analysis. 
