@@ -10,9 +10,9 @@ This year (Oct 2019 - June 2020) I am lecturing on Biofashion at the Royal Colle
 Lit review used to involve libraries. Not anymore. Google, Mendeley, Ctrl+F and MSword (or latex) are your friends.  
 2. Week 23rd October - [Build Your Own Computer](https://github.com/tmopencell/diycomputer)
 A workshop where participants will participate in the building of three different types of computer/laptop. We will then do a crash course on getting started with coding. 
-3. Week 30th October - [Forage and Culture Mycelia](https://www.instagram.com/natura_studios/?hl=en)
+3. Week 30th October - [Forage and Culture Mycelia](https://www.opencell.bio/post/cloning-fungi)
 A workshop delivered by Ashley Granter, Founder of Natura Studios. 
-4. Week 8th November - [Design with the Living EXHIBIT @ Design Museum](https://designmuseum.org/whats-on/talks-courses-and-workshops/design-with-the-living)
+4. Week 8th November - [Design with the Living SYMPOSIUM @ Design Museum](https://designmuseum.org/whats-on/talks-courses-and-workshops/design-with-the-living)
 Exhibition and as a part of the Design Museum London's courses and workshops.
 5. Week 20th Novermber - [Dying Clothes with Bacteria]()
 A hands on workshop using _Streptomyces_ to produce Indigo. 
